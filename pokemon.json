@@ -1,0 +1,10 @@
+[
+    {
+        "name": "pikachu",
+        "rutaimage":"pikachu.jpg"
+    },
+    {
+        "name": "Bulbasaur",
+        "rutaimage":"Bulbasaur.jpeg"
+    }
+]
